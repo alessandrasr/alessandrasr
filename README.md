@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-end`**
 
-Desenvolvedora Python apaixonada por transformar processos e otimizar tarefas. Sua curiosidade e dedicação a impulsionam a aprender continuamente as nuances da linguagem, buscando sempre novas formas de automatizar e aprimorar soluções. Com uma mente focada na eficiência, Alessandra vê em Python a ferramenta ideal para construir sistemas inteligentes e impactantes, movida pela satisfação de ver o código dar vida à funcionalidade e simplificar o complexo..
+Desenvolvedora Python apaixonada por automação e Python!🚀 focada em criar soluções eficientes utilizando tecnologias como Selenium e outras ferramentas.
 
 <p align="left">
     <a href="https://github.com/alessandrasr">
