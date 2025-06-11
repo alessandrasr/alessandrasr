@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Back-end`**
 
-Desenvolvedora Python apaixonada por automação e Python!🚀 focada em criar soluções eficientes utilizando tecnologias como Selenium e outras ferramentas.
+Desenvolvedora Python apaixonada por automação!🚀 focada em criar soluções eficientes utilizando tecnologias como Selenium e outras ferramentas.
 
 <p align="left">
     <a href="https://github.com/alessandrasr">
