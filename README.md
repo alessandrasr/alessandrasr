@@ -13,7 +13,6 @@ Desenvolvedora Python apaixonada por transformar processos e otimizar tarefas. S
         />
     </a>
 </p>
----
 
 ### 🤖 Linguagens e Tecnologias
 
