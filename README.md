@@ -4,6 +4,9 @@
 
 Desenvolvedora Python apaixonada por automação!🚀 focada em criar soluções eficientes utilizando tecnologias como Selenium e outras ferramentas.
 
+Uso a técnica PARA:
+Problema → Análise → Resultado → Ação
+
 <p align="left">
     <a href="https://github.com/alessandrasr">
         <img 
